@@ -12,5 +12,5 @@ function happyHolidaysTo(name)  {
 }
 
 function happyHolidayTo(holiday, name) {
-  return "Happy birthday, Justin!"
+  return "Happy Independence Day, you!"
 }
